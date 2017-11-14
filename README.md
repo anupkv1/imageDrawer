@@ -1,5 +1,5 @@
 ## ShapeDrawer
-This is a small demo that takes the JSON data from test API and draws shapes dynamically on the image based on the shapes mentioned in json object
+
 
 - ###### Server is built using node-express
   -----------------------------------------
