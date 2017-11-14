@@ -1,6 +1,8 @@
 ## ShapeDrawer
 ###### This is a small demo app that invokes a RESTAPI to fetch the mock data and draws shapes dynamically on the the image at given co-ordinates.
 
+###### To Run the app we need to install node. Navigate to backend and do npm start. navigate to frontend and open index.html...
+
 - ###### Server is built using node-express
   -----------------------------------------
 
