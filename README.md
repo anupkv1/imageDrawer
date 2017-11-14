@@ -81,9 +81,7 @@
   </html>
   ```
 
-- ###### jquery function `getJSON` invokes rest api call to fetch data
-  and for each record in the json object drawShape function is called
-  to draw different shapes with x and y axis.
+- ###### jquery function `getJSON` invokes rest api call to fetch data and for each record in the json object drawShape function is called to draw different shapes with x and y axis.
   --------------------------------------------------------------------
   ```
    $.getJSON('http://localhost:3000/imageData').done(function(data) {
